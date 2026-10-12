@@ -4,4 +4,4 @@ Hi world ,This repository is a my hands-on learning sandbox for Docker, Linux CL
 
 - learned linux file permissions.
 - Understood container isolation (containers cannot see host files by default). 
-- learned how to synx host folders with containers using docker volumes.
+- learned how to sync host folders with containers using docker volumes.
