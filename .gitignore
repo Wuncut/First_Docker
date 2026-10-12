@@ -1,0 +1,13 @@
+# Environment variables and secrets
+.env
+*.env 
+
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
