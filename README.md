@@ -1,7 +1,6 @@
-# Docker & Linux Fundamentals 
 
-Hi world ,This repository is my hands-on learning sandbox for Docker, Linux CLI, and Shell Scripting. 
+Hi world, this repository is my hands-on learning sandbox for Docker, Linux CLI, and Shell Scripting.
 
-- learned linux file permissions.
-- Understood container isolation (containers cannot see host files by default). 
-- learned how to sync host folders with containers using docker volumes.
+- Learned Linux file permissions.
+- Understood container isolation (containers can't see host files by default).
+- Learned how to sync host folders with containers using Docker volumes.
